@@ -1,16 +1,18 @@
 
-O que foi pedido para o desafio foi:
+<p>O que foi pedido para o desafio foi:</p>
 
-Faça uma página que mostre 4 personagens aleatórios de Rick e Morty e seus nomes
+<p>Faça uma página que mostre 4 personagens aleatórios de Rick e Morty e seus nomes
 sempre que a página for atualizada.
 Essa página serve para ajudar quem não conhece o desenho a conhecer pelo menos seus
 personagens, sendo assim a página deve apresentar duas informações: a foto do
-personagem e o nome dele.
-O que você vai precisar:
-● Um arquivo HTML para os elementos
-● Um arquivo CSS para deixar organizado
-● Um arquivo JavaScript para conseguir buscar esse personagens no banco de dados
-da API Rick e Morty
+personagem e o nome dele.</p>
+<p>O que você vai precisar:</p>
+<ol>
+<li> Um arquivo HTML para os elementos</li>
+<li>Um arquivo CSS para deixar organizado</li>
+<li>Um arquivo JavaScript para conseguir buscar esse personagens no banco de dados
+  da API Rick e Morty</li>
+  </ol>
 
 Para resolver:
 

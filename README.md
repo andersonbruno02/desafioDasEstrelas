@@ -1,3 +1,19 @@
+
+O que foi pedido para o desafio foi:
+
+Faça uma página que mostre 4 personagens aleatórios de Rick e Morty e seus nomes
+sempre que a página for atualizada.
+Essa página serve para ajudar quem não conhece o desenho a conhecer pelo menos seus
+personagens, sendo assim a página deve apresentar duas informações: a foto do
+personagem e o nome dele.
+O que você vai precisar:
+● Um arquivo HTML para os elementos
+● Um arquivo CSS para deixar organizado
+● Um arquivo JavaScript para conseguir buscar esse personagens no banco de dados
+da API Rick e Morty
+
+Para resolver:
+
 O processo foi dividido em quatro etapas: Pesquisa na W3 Schools e MDN (presente em todo o processo) e, respectivamente, estrutura, funcionalidade e visual.
 
 Comecei desenvolvendo um "esqueleto" em HTML que continha os elementos básicos para estruturar o site. No cabeçalho coloquei os metadados como protocolo UTF, idioma e a indicação para Javascript e CSS).Já no Main criei quatro sessões com tags de imagem e parágrafo, com uma "id" cada, para poder posteriormente chamá-las resultando no acesso do bloco de imagens e do nome do personagem de acordo com o sorteio. 
